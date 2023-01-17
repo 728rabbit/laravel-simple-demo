@@ -1,4 +1,4 @@
-/* Url Format
+Url Format
 ---------------------------------------------------------------------------
 
 1. cportal (backend):
@@ -13,7 +13,6 @@ or
 http://{domain_name}/{class_name}/{function_name}/{parameter1}/{parameter2}/.../?t=xxx
 
 ---------------------------------------------------------------------------
-*/
 
 
 Step1: edit "/Applications/XAMPP/htdocs/laravel9/routes/web.php"
