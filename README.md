@@ -24,4 +24,4 @@ Step2: create new controller "/Applications/XAMPP/htdocs/laravel9/app/Http/Contr
 
 Step3: create new controller "/Applications/XAMPP/htdocs/laravel9/app/Http/Controllers/PageController.php"
 
-Step3: create new controller "/Applications/XAMPP/htdocs/laravel9/app/Http/Controllers/Web/HomeController.php"
+Step4: create new controller "/Applications/XAMPP/htdocs/laravel9/app/Http/Controllers/Web/HomeController.php"
