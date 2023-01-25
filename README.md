@@ -14,3 +14,7 @@ or
 website within single language(frontend):
 
 http://{domain_name}/{class_name}/{function_name}/{parameter1}/{parameter2}/.../?t=xxx
+
+![Screenshot](frontend.png)
+
+![Screenshot](backend.png)
