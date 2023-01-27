@@ -96,7 +96,7 @@ class ModuleController extends Controller {
         $my_multi_languages = ['en','zh-hk'];
         $my_cportal_language = 'en';
         //$my_multi_languages = ['zh-hk'];
-        $my_cportal_language = 'zh-hk';
+        //$my_cportal_language = 'zh-hk';
         $my_wportal_language = (count($my_multi_languages) == 1)?$my_multi_languages[0]:'en';
         $my_class = 'home';
         $my_function = 'main';
